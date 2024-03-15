@@ -1,0 +1,64 @@
+.icon_Image {
+  width: 60px;
+  height: auto;
+  margin: 10px 30px;
+}
+
+.headingContent {
+  display: flex;
+  margin-left: 200px;
+}
+
+
+
+.subheading {
+  color: #005C87;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.cardContainer {
+  border: 1px solid #005C87;
+  background-color: white;
+  border-radius: 20px;
+  padding: 10px;
+  margin-top: 5px;
+  margin-left: 220px;
+  margin-right: 200px;
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  height: 80vh;
+}
+
+
+.cardBar {
+  border: 1px solid #005C87;
+  background-color: white;
+  border-radius: 10px;
+  margin-top: 5px;
+  width: auto;
+  height: fit-content;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cardHeading {
+  font-size: 16px;
+  color: #005c87;
+  margin: 10px 0 0 10px;
+  text-align: left;
+  top: 20px;
+  left: 20px;
+}
+
+
+.bar_Image {
+  margin: 5px 10px 5px 10px;
+}
+
+.Reactangle_Image {
+  width: 120px;
+  height: 10px;
+  margin: 20px 10px 5px 10px;
+}

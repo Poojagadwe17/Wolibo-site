@@ -1,0 +1,121 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #F7F5EB;
+  min-height: 100vh;
+  position: relative;
+}
+
+
+
+.wrapper {
+  flex: 0 0 auto;
+  margin-left: 140px;
+  margin-top: 60px;
+}
+
+.heading {
+  color: #005C87;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.lightBlueText {
+  color: #85C0EA;
+  font-size: 40px;
+  font-weight: bolder;
+}
+
+.backgroundImageVector {
+  position: absolute;
+  top: 300px;
+  right: 0;
+  width: 150px;
+  height: auto;
+  z-index: 1;
+}
+
+
+.backgroundCenterVector {
+  position: absolute;
+  top: 50px;
+  left: 750px;
+  width: 100px;
+  height: auto;
+  z-index: 1;
+}
+
+.contentWrapper {
+  display: flex;
+  flex-direction: column;
+  margin-left: 250px;
+  width: 220px
+}
+
+.technology {
+  border: 1px solid;
+  border-radius: 30px;
+  border-color: #005C87;
+  padding: 10px 0;
+  margin: 20px 50px 5px 0;
+  color: #005C87;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.lowerText {
+  line-height: 28px;
+  margin-right: 80px;
+  margin-top: 80px;
+  color: #005C87;
+  font-size: 24px;
+  text-align: left;
+}
+
+.line_Image {
+  width: 10px;
+  height: 100px;
+  margin-right: 10px;
+
+}
+
+.logo {
+  width: 80px;
+  height: 60px;
+  margin: 20px 5px 10px 30px;
+}
+
+.names {
+  margin-right: 30px;
+  font-weight: bold;
+  color: #005C87;
+  font-size: 24px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.roles {
+  margin-right: 30px;
+  color: #85C0EA;
+  font-size: 20px;
+  text-align: left;
+  margin-top: 5px;
+}
+
+
+
+.lowerContent {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.icons {
+  float: left;
+  width: 90px;
+  height: 80px;
+  margin: 20px 25px 10px 10px;
+}

@@ -1,0 +1,121 @@
+.pageContent {
+    background-color: #F7F5EB;
+    min-height: 100vh;
+}
+
+.leftContent {
+    float: left;
+    margin-left: 90px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 0;
+}
+
+.blueText {
+    color: #005C87;
+    font-size: 40px;
+    font-weight: bolder;
+    white-space: pre-line;
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.lightBlueText {
+    color: #85C0EA;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.normalText {
+    color: #85C0EA;
+    font-size: 18px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+
+
+.buttonRow {
+    display: flex;
+    margin-top: 30px;
+}
+
+.roundedButton {
+    border-radius: 20px;
+    border-color: #005C87;
+    padding: 10px 20px;
+    margin: 0 10px 0 0;
+    background-color: #fff;
+    color: #005C87;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.roundedButtonDemo {
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    background-color: #005C87;
+    color: white;
+    cursor: pointer;
+}
+
+.roundedButton:hover {
+    background-color: #0056b3;
+}
+
+.image {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 0 10px;
+}
+
+.playIcon {
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+
+
+
+.bottomContent {
+
+    background-color: #005C87;
+    padding: 20px;
+    text-align: center;
+}
+
+.bottomText {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.logoContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+    margin: 0 70px;
+}
+
+.size {
+    margin: 0 40px 20px 0;
+    width: 260px;
+    height: auto;
+}
+
+.rightSide {
+    display: flex;
+    margin-right: 90px;
+    float: right;
+}

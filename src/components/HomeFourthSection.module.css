@@ -1,0 +1,124 @@
+.pageContent {
+    background-color: #F7F5EB;
+    min-height: 100vh;
+    position: relative;
+}
+
+
+.blueText {
+    color: #005C87;
+    font-size: 40px;
+    font-weight: bolder;
+    align-items: center;
+    margin: 0 0;
+    padding-top: 70px;
+}
+
+.lightBlueText {
+    color: #85C0EA;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.normalText {
+    color: #85C0EA;
+    font-size: 18px;
+    margin: 10px 200px;
+}
+
+.line_Image {
+    width: 150px;
+    height: auto;
+    margin: 0 0 10px;
+
+}
+
+
+.bottomContainer {
+    margin: 30px 90px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.innerContent {
+    display: flex;
+}
+
+.logo {
+    width: 50px;
+    height: 60px;
+    margin: 0 10px;
+}
+
+.bottomSub {
+    color: #005C87;
+    font-weight: bold;
+    text-align: left;
+}
+
+.description {
+    margin-top: 40px;
+    text-align: left;
+    color: #85C0EA;
+    font-size: 16px;
+}
+
+.backgroundImage {
+    position: absolute;
+    top: 170px;
+    left: 10px;
+    width: 300px;
+    height: 90px;
+    z-index: 1;
+}
+
+.backgroundImageAdmin {
+    position: absolute;
+    top: 400px;
+    left: 10px;
+    width: 300px;
+    height: 90px;
+    z-index: 1;
+}
+
+.backgroundImageVector {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 150px;
+    height: auto;
+    z-index: 1;
+}
+
+.bottomContent {
+    display: flex;
+    justify-content: space-between;
+    background-color: #005C87;
+    padding: 30px;
+}
+
+.headingContainer {
+    color: white;
+    margin-left: 40px;
+    font-size: 40px;
+    text-align: left;
+    margin-bottom: 0;
+}
+
+
+.roundButton {
+    border-radius: 30px;
+    border-color: #76AB78;
+    padding: 20px 55px;
+    margin: 40px 50px 40 0;
+    background-color: #76AB78;
+    color: #fff;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.buttonContainer {
+    margin-top: 50px;
+    margin-right: 90px;
+}

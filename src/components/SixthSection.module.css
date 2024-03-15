@@ -1,0 +1,33 @@
+.pageContent {
+    background-color: #F7F5EB;
+    min-height: 100vh;
+}
+
+
+.blueText {
+    color: #005C87;
+    font-size: 40px;
+    font-weight: bolder;
+    align-items: center;
+    margin: 0 0;
+    padding-top: 20px;
+}
+
+.lightBlueText {
+    color: #85C0EA;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.normalText {
+    color: #85C0EA;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.line_Image {
+    width: 150px;
+    height: auto;
+    margin: 0 0 10px;
+
+}

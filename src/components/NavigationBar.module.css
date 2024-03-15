@@ -1,0 +1,57 @@
+.navigationBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #fff;
+    color: #005C87;
+}
+
+.logo img {
+    height: 40px;
+    margin-left: 60px;
+}
+
+.navigationOptions ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navigationOptions ul li {
+    display: inline-block;
+    margin-right: 90px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.buttons button {
+    margin-left: 20px;
+    padding: 8px 16px;
+
+}
+
+.signInButton {
+    color: #005C87;
+    background-color: transparent;
+    border: 2px solid #005C87;
+    border-radius: 20px;
+    padding: 8px 16px;
+    margin-right: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.bookCallButton {
+    color: white;
+    background-color: #005C87;
+    border: 2px solid #005C87;
+    border-radius: 20px;
+    padding: 8px 16px;
+    cursor: pointer;
+    margin-right: 60px;
+}
+
+.text {
+    color: #85C0EA;
+}
